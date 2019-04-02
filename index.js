@@ -1,6 +1,6 @@
 'use strict'
 
-const AsyncStorage = require('react-native').AsyncStorage
+const AsyncStorage = require('@react-native-community/async-storage').default
 const polygoat = require('polygoat')
 
 let id
